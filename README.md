@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/jiyoo
 ## 🛠️ Tools
 - **Languages:** SQL, Python  
 - **Databases:** Google BigQuery, PostgreSQL, MySQL  
-- **Visualization:** Tableau, Looker Studio  
+- **Visualization:** Tableau, Power BI
 
 
 
