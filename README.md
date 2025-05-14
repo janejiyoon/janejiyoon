@@ -1,5 +1,5 @@
 Hi there 👋 I'm Jiyoon.
-**BI Consultant / Data Analyst Fresher** with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+**BI Consultant / Data Analyst Fresher** with expertise in data analysis and reporting, query optimization, database visualization.
 
 - Querying data using SQL  
 - Generating reports and performing ad-hoc analyses using SQL  
