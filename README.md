@@ -6,7 +6,7 @@ Generate reports and perform ad-hoc data analysis using SQL.
 Developing dashboards on Tableau and Power BI
 Data analysis and reporting using Google Sheets and Excel.
 
-###[📚 Projects](https://github.com/jiyoonjane/Portfolio_guide)
+###📚 Projects(https://github.com/jiyoonjane/Portfolio_guide)
 Welcome to my portfolio, where I showcase my projects.
 
 ###🛠️ Tools
