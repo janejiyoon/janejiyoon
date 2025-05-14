@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Jiyoon. BI Consultant / Data Analyst Fresher with expertise in data analysis and reporting, query optimization, database design, and BI tool.
+ Hi there 👋 
+ I'm Jiyoon. BI Consultant / Data Analyst Fresher with expertise in data analysis and reporting, query optimization, database design, and BI tool.
 
 Querying data using SQL.
 Generate reports and perform ad-hoc data analysis using SQL.
@@ -6,6 +7,7 @@ Developing dashboards on Tableau and Power BI
 Data analysis and reporting using Google Sheets and Excel.
 
 [📚 Projects](https://github.com/jiyoonjane/Portfolio_guide)
+--
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
