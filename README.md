@@ -26,4 +26,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/jiyoo
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoonjane)](https://github.com/anuraghazra/github-readme-stats)
 
-![Jiyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoonjane&hide=contribs,prs&show_icons=true&theme=테마)
+
