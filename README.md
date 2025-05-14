@@ -1,19 +1,26 @@
- Hi there 👋 
- I'm Jiyoon. BI Consultant / Data Analyst Fresher with expertise in data analysis and reporting, query optimization, database design based in Seoul/Amsterdam
+# Hi there 👋 I'm Jiyoon.
+**BI Consultant / Data Analyst Fresher** with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
-Querying data using SQL.
-Generate reports and perform ad-hoc data analysis using SQL.
-Developing dashboards on Tableau and Power BI
-Data analysis and reporting using Google Sheets and Excel.
+- Querying data using SQL  
+- Generating reports and performing ad-hoc analyses using SQL  
+- Developing dashboards in Tableau and Looker Studio  
+- Data analysis and reporting using Google Sheets and Excel  
 
-###📚 Projects(https://github.com/jiyoonjane/Portfolio_guide)
-Welcome to my portfolio, where I showcase my projects.
+---
 
-###🛠️ Tools
-Language: SQL, Python(pandas)
-Database: Google BigQuery, MySQL, DBeaver
-Visualization: Tableau, Power BI
+## 📚 Projects  
+Welcome to my portfolio, where I showcase my [projects](https://github.com/jiyoonjane/Portfolio_guide)
 
-###👋🏻 Connect with Me
-[Linkedin](https://www.linkedin.com/in/jiyoon-s-759273220/)
-Hire me on Upwork
+---
+
+## 🛠️ Tools
+- **Languages:** SQL, Python  
+- **Databases:** Google BigQuery, PostgreSQL, MySQL  
+- **Visualization:** Tableau, Looker Studio  
+
+---
+
+## 🤝 Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jiyoon-s-759273220/))  
+ 
+ 
