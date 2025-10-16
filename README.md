@@ -11,7 +11,7 @@ Hi there 👋 I'm Jiyoon Jane Shin.
 
 ## 📚 Projects  
 Welcome to my portfolio, where I showcase my [projects](https://github.com/jiyoonjane/Portfolio_guide)
-
+This is the website version of my portfolio [Jiyoon's Portfolio](https://jiyoonjane.github.io/)
 
 
 ## 🛠️ Tools
