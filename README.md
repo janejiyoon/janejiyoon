@@ -1,10 +1,11 @@
-Hi there 👋 I'm Jiyoon.
-**BI Consultant / Data Analyst Fresher** with expertise in data analysis and reporting, query optimization, database visualization.
+Hi there 👋 I'm Jiyoon Jane Shin.
+**BI Developer / Data Analyst Fresher** with expertise in data analysis and reporting, query optimization, database visualization.
 
-- Querying data using SQL  
+- Querying data using SQL
+- Automating routine reports for reducing manual workload and improving reporting efficinecy
 - Generating reports and performing ad-hoc analyses using SQL  
-- Developing dashboards in Tableau and Looker Studio  
-- Data analysis and reporting using Google Sheets and Excel  
+- Developing dashboards in Power BI, Tableau and Looker Studio  
+
 
 
 
@@ -17,6 +18,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/jiyoo
 - **Languages:** SQL, Python  
 - **Databases:** Google BigQuery, PostgreSQL, MySQL  
 - **Visualization:** Tableau, Power BI
+- **Cloud & Infrastructure:** AWS (Redshift, RDS, Athena)
 
 
 
