@@ -14,14 +14,14 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/jiyoo
 This is the website version of my portfolio [Jiyoon's Portfolio](https://jiyoonjane.github.io/)
 
 
-## 🛠️ Tools
+## 🛠️ Tech Stacks
 - **Languages:** SQL (SQL Server, MySQL, PostgreSQL), Python (Pandas, NumPy, Metplotlib)   
 - **Data Analysis & Visualization:** Tableau, Microsoft Power BI, Excel (VLOOKUP, Conditional Formatting, Pivot Tables)
 - **Cloud & Infrastructure:** AWS (Redshift, RDS, Athena)
 
 
 
-## 🤝 Connect with Me
+## 🤝 Contact me
 - [LinkedIn](https://www.linkedin.com/in/jiyoon-s-759273220/)
 
  
