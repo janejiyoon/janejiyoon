@@ -1,4 +1,4 @@
-Hi there 👋 
+## 👩‍💻 About Me
 
 ```yaml
 name: Jane Jiyoon Shin
@@ -17,18 +17,19 @@ fileds_of_interests:
 "Data Analytics",
 "Data Science",
 "Machine Learning",
-"UI/UX"
-"DevOps"
+"UI/UX",
+"DevOps",
+"MLOps"
 ]
 
 technical_background:
 [
 "Intern - Buisness Intelligence Analyst in SQL and Power BI",
-"Intern - Data Analyst in SQL, Python, Power BI and Tableau"
+"Intern - Data Analyst in SQL, Python, AWS, Power BI and Tableau"
 ]
 
 currently_learning: ["Python, Figma"]
-2025 Goal: ["Complete at least three projects related to my areas of interest and learn and become proficient in Figma"]
+2025 Goal: ["Complete three projects related to my areas of interest and learn and become proficient in Python and Figma"]
 hobbies: ["Tennis", "Traveling", "Hiking"]
 ```
 
