@@ -1,5 +1,5 @@
 Hi there 👋 I'm Jiyoon Jane Shin.
-**BI Developer / Data Analyst Fresher** with expertise in data analysis and reporting, query optimization, database visualization.
+**BI Developer / Data Analyst** with expertise in data analysis and reporting, query optimization, database visualization based in Amsterdam, The Netherlands and Seoul, South Korea.
 
 - Querying data using SQL
 - Automating routine reports for reducing manual workload and improving reporting efficinecy
@@ -15,9 +15,8 @@ This is the website version of my portfolio [Jiyoon's Portfolio](https://jiyoonj
 
 
 ## 🛠️ Tools
-- **Languages:** SQL, Python  
-- **Databases:** Google BigQuery, PostgreSQL, MySQL  
-- **Visualization:** Tableau, Power BI
+- **Languages:** SQL (SQL Server, MySQL, PostgreSQL), Python (Pandas, NumPy, Metplotlib)   
+- **Data Analysis & Visualization:** Tableau, Microsoft Power BI, Excel (VLOOKUP, Conditional Formatting, Pivot Tables)
 - **Cloud & Infrastructure:** AWS (Redshift, RDS, Athena)
 
 
