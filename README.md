@@ -1,9 +1,36 @@
-Hi there 👋 I'm Jane Jiyoon Shin.
-**BI Developer / Data Analyst** with expertise in data analysis and reporting, query optimization, database visualization based in Amsterdam and Seoul.
-- Querying data using SQL
-- Automating routine reports for reducing manual workload and improving reporting efficinecy
-- Generating reports and performing ad-hoc analyses using SQL  
-- Developing dashboards in Power BI, Tableau and Looker Studio  
+Hi there 👋 
+
+```yaml
+name: Jane Jiyoon Shin
+located_in: Amsterdam, The Netherlands | Seoul, South Korea
+current_job: Data Analyst
+company: Boehringer Ingelheim
+education:
+[
+"Self-Taught Developer and Designer",
+"Bachelor's in International Business"
+]
+
+fileds_of_interests:
+[
+"BI Development",
+"Data Analytics",
+"Data Science",
+"Machine Learning",
+"UI/UX"
+"DevOps"
+]
+
+technical_background:
+[
+"Intern - Buisness Intelligence Analyst in SQL and Power BI",
+"Intern - Data Analyst in SQL, Python, Power BI and Tableau"
+]
+
+currently_learning: ["Python, Figma"]
+2025 Goal: ["Complete at least three projects related to my areas of interest and learn and become proficient in Figma"]
+hobbies: ["Tennis", "Traveling", "Hiking"]
+```
 
 
 
