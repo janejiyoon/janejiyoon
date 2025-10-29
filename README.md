@@ -1,4 +1,4 @@
-Hi there 👋 I'm Jiyoon Jane Shin.
+Hi there 👋 I'm Jane Jiyoon Shin.
 **BI Developer / Data Analyst** with expertise in data analysis and reporting, query optimization, database visualization based in Amsterdam, The Netherlands and Seoul, South Korea.
 
 - Querying data using SQL
