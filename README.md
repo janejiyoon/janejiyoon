@@ -1,3 +1,4 @@
+<div align="center">
 ![Image](https://github.com/user-attachments/assets/4c367895-f575-4b09-90ec-ca8b10ca51ab)
 
 
@@ -56,4 +57,4 @@ This is the website version of my portfolio [Jiyoon's Portfolio](https://jiyoonj
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoonjane&layout=compact)
 
-
+</div>
