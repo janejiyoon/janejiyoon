@@ -52,9 +52,7 @@ This is the website version of my portfolio [Jiyoon's Portfolio](https://jiyoonj
 
 
 
-## 🤝 Contact me
-- [LinkedIn](https://www.linkedin.com/in/jiyoon-s-759273220/)
-
+![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janejiyoon&show_icons=true&theme=radical)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoonjane&layout=compact)
 
