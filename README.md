@@ -2,7 +2,7 @@
  
 ![Image](https://github.com/user-attachments/assets/4c367895-f575-4b09-90ec-ca8b10ca51ab)
 
-
+</div>
 
 ## 👩‍💻 About Me
 
@@ -41,7 +41,8 @@ hobbies: ["Tennis", "Traveling", "Hiking"]
 
 
 
-
+<div align="center">
+ 
 ## 📚 Projects  
 Welcome to my portfolio, where I showcase my [projects](https://github.com/jiyoonjane/Portfolio_guide)
 This is the website version of my portfolio [Jiyoon's Portfolio](https://jiyoonjane.github.io/)
