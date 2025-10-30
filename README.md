@@ -1,6 +1,6 @@
 <div align="center">
  
-![Image](https://github.com/user-attachments/assets/4c367895-f575-4b09-90ec-ca8b10ca51ab)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Modak&size=26&pause=1000&color=53F757&width=435&lines=Hi+there!+;Welcome+to+Jane's+GitHub+-;I+am+a+data+analyst+and+BI+developer.;We+can+connect+on+LinkedIn%2C+or+Gmail." alt="Typing SVG" /></a>
 
 </div>
 
