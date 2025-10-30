@@ -43,20 +43,52 @@ hobbies: ["Tennis", "Traveling", "Hiking"]
 
 <div align="center">
  
-## 📚 Projects  
-Welcome to my portfolio, where I showcase my [projects](https://github.com/jiyoonjane/Portfolio_guide)
-This is the website version of my portfolio [Jiyoon's Portfolio](https://jiyoonjane.github.io/)
 
 
 ## 🛠️ Tech Stacks
-- **Languages:** SQL (SQL Server, MySQL, PostgreSQL), Python (Pandas, NumPy, Metplotlib)   
-- **Data Analysis & Visualization:** Tableau, Microsoft Power BI, Excel (VLOOKUP, Conditional Formatting, Pivot Tables)
-- **Cloud & Infrastructure:** AWS (Redshift, RDS, Athena)
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+## 📊 Analytics
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+
+## ☁ Cloud
+<img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-the-badge&logo=AmazonAWS&logoColor=f89400"> 
+
+## 🤖 Artificial Intelligence 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white">
+
+## 🖍 Design
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+## 🔗 Blockchain
+<img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white">
+
+## 🤜 Group
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> 
+
+## 📝 Blog
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+
+## 📱 Contact
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+
+
+
+
+
 
 ##
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janejiyoon&layout=compact&theme=dark" /> ![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janejiyoon&show_icons=true&theme=radical)
 
 
+
+
+
+## 📚 Projects  
+Welcome to my portfolio, where I showcase my [projects](https://github.com/jiyoonjane/Portfolio_guide)
+This is the website version of my portfolio [Jiyoon's Portfolio](https://jiyoonjane.github.io/)
 
 
 
