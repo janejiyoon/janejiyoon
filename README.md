@@ -2,7 +2,7 @@
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quantico&size=26&pause=1000&color=53F757&width=435&lines=Hi+there!+;Welcome+to+Jane's+GitHub+-+%E2%99%A1;I+am+a+data+analyst+and+BI+developer.;based+in+Amsterdam+and+Seoul;We+can+connect+on+LinkedIn%2C+Gmail.;I+am+also+interested+in+UI%2FUX.;Please+feel+free+to+contact+me!" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aldrich&size=25&pause=1000&color=53F757&width=435&lines=Hi+there!+;Welcome+to+Jane's+GitHub+-+%E2%99%A1;I+am+a+data+analyst+and+BI+developer.;based+in+Amsterdam+and+Seoul;We+can+connect+on+LinkedIn%2C+Gmail.;I+am+also+interested+in+UI%2FUX.;Please+feel+free+to+contact+me!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbit&size=26&pause=1000&color=53F757&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EC%A0%80%EC%9D%98+%EA%B9%83%ED%97%99%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4.;%EC%A0%80%EB%8A%94+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B3%BC+BI%EB%A5%BC+%ED%95%98%EA%B3%A0%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.;%EC%95%94%EC%8A%A4%ED%85%8C%EB%A5%B4%EB%8B%B4%EA%B3%BC+%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C+%EC%9D%BC%ED%95%98%EA%B3%A0%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.;%EC%A0%80%EB%8A%94+UI%2FUX%EC%97%90%EB%8F%84+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.;%ED%8E%B8%ED%95%98%EA%B2%8C+%EB%88%84%EA%B5%AC%EB%93%A0+%EC%97%B0%EB%9D%BD%EC%A3%BC%EC%84%B8%EC%9A%94!;%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 
 </div>
 
