@@ -52,7 +52,7 @@ hobbies: ["Tennis", "Traveling", "Hiking"]
 
 ## 📊 Data Visualizations
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI">
 
 ## ☁ Cloud
 <img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-the-badge&logo=AmazonAWS&logoColor=f89400"> 
