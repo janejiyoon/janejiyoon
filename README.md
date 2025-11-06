@@ -80,7 +80,11 @@ hobbies: ["Tennis", "Traveling", "Hiking"]
 
 ##
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janejiyoon&layout=compact&theme=dark" /> ![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janejiyoon&show_icons=true&theme=radical)
+ ![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janejiyoon&show_icons=true&theme=radical)
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janejiyoon&layout=compact&theme=dark" /> 
+ 
+
 
 
 
