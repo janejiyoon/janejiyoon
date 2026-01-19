@@ -36,8 +36,8 @@ technical_background:
 "Intern - Data Analyst in SQL, Python, AWS, Power BI and Tableau"
 ]
 
-currently_learning: ["Python, Figma"]
-2025 Goal: ["Complete three projects related to my areas of interest and learn and become proficient in Python and Figma"]
+currently_learning: ["Python, Figma, Vibe Coding"]
+2025 Goal: ["Complete three projects related to my areas of interest and learn and become proficient in Python and Vibe Coding to make whatever i want"]
 hobbies: ["Tennis", "Traveling", "Hiking"]
 ```
 
