@@ -23,18 +23,18 @@ fileds_of_interests:
 [
 "Data Analytics",
 "Automation",
-"Data Science",
+"AI solution",
 "Machine Learning",
 "MLOps"
 ]
 
 technical_background:
 [
-"Intern - Buisness Intelligence Analyst in SQL and Power BI",
-"Intern - Data Analyst in SQL, Python, AWS, Power BI and Tableau"
+"Buisness Intelligence Analyst in SQL and Power BI",
+"Data Analyst in SQL, Python, AWS, Power BI and Tableau"
 ]
 
-currently_learning: ["Python, Figma, Vibe Coding"]
+currently_learning: ["Python, Vibe Coding"]
 2025 Goal: ["Complete three projects related to my areas of interest and learn and become proficient in Python and Vibe Coding to make what i want"]
 2026 Goal: ["Working in corporate as a data analyst/BI developer"]
 2027 Goal: ["Studying in Analytics/Applied Data science for master while working in corporate"]
