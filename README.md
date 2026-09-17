@@ -21,11 +21,11 @@ education:
 
 fileds_of_interests:
 [
-"Data Analytics",
+"Data Engineering",
 "Automation",
 "AI solution",
-"Machine Learning",
-"MLOps"
+"Data Analytics",
+"DevOps"
 ]
 
 technical_background:
