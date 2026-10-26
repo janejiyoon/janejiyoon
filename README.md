@@ -16,7 +16,6 @@ company: Boehringer Ingelheim
 education:
 [
 "Self-Taught Developer and Designer",
-"Bachelor's in International Business"
 ]
 
 fileds_of_interests:
@@ -34,7 +33,7 @@ technical_background:
 "Data Analyst in SQL, Python, AWS, Power BI and Tableau"
 ]
 
-currently_learning: ["Python, Vibe Coding"]
+currently_learning: ["Agentic AI, Cloud, Vibe Coding"]
 2025 Goal: ["Complete three projects related to my areas of interest and learn and become proficient in Python and Vibe Coding to make what i want"]
 2026 Goal: ["Working in corporate as a data engineer/data analyst/BI developer"]
 2027 Goal: ["Studying Computer Science/Analytics for part-time master while working in corporate"]
