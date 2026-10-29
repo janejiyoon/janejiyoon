@@ -37,7 +37,7 @@ technical background:
 currently_learning: ["Agentic AI, Cloud, Vibe Coding"]
 2025 Goal: ["Complete three projects related to my areas of interest and learn and become proficient in Python and Vibe Coding to make what i want"]
 2026 Goal: ["Working in corporate and explore"]
-2027 Goal: ["Studying Computer Science/Analytics for part-time master while working in corporate"]
+2027 Goal: ["Studying Computer Science/Analytics for master while working in corporate"]
 hobbies: ["Tennis", "Traveling", "Hiking"]
 ```
 
