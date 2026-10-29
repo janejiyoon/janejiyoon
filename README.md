@@ -8,7 +8,7 @@
 
 ```yaml
 name: Jane Shin
-located_in: Amsterdam, The Netherlands | Seoul, South Korea
+located_in: Amsterdam, The Netherlands 
 current_job: Product Manager
 company: LG Electronics
 education:
