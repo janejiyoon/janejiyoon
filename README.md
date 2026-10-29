@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 
 ```yaml
-name: Jane Jiyoon Shin
+name: Jane Shin
 located_in: Amsterdam, The Netherlands | Seoul, South Korea
 current_job: Product Manager
 company: LG Electronics
