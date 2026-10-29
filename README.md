@@ -20,14 +20,14 @@ fileds_of_interests:
 [
 "Product Management"
 "Project Management"
-"Data Engineering",
 "Automation",
 "AI solution",
 "Data Analytics",
-"DevOps"
+"DevOps",
+"Cloud"
 ]
 
-technical background:
+technical_background:
 [
 "Buisness Intelligence Analyst in SQL and Power BI",
 "Data Analyst in SQL, Python, AWS, Power BI and Tableau"
