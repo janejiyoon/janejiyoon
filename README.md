@@ -31,7 +31,7 @@ technical_background:
 [
 "Buisness Intelligence Analyst in SQL and Power BI",
 "Data Analyst in SQL, Python, AWS, Power BI and Tableau"
-"Product Manager in SQL, Power BI and Python for Automation"
+"Product Manager in SQL, Power BI and Python for Sales Forecasting, Automation, Anomaly Detection"
 ]
 
 currently_learning: ["Agentic AI, Cloud, Vibe Coding"]
