@@ -9,8 +9,7 @@
 ```yaml
 name: Jane Shin
 located_in: Amsterdam, The Netherlands 
-current_job: Product Manager
-company: LG Electronics
+current_job: AI Engineer
 education:
 [
 "Self-Taught Developer and Designer",
@@ -18,8 +17,6 @@ education:
 
 fileds_of_interests:
 [
-"Product Management"
-"Project Management"
 "Automation",
 "AI solution",
 "Data Analytics",
